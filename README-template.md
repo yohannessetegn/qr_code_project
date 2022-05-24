@@ -25,8 +25,9 @@ image.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/yohannessetegn/qr_code_project/tree/main/qr-code-component-main
+
+- Live Site URL: https://yohannessetegn.github.io/qr_code_project/
 
 ## My process
 
